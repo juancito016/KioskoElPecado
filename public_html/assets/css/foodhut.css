@@ -160,13 +160,13 @@ sup {
 }
 
 a {
-  color: #ff214f;
+  color: #15df0c;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #d4002c;
+  color: #22a01b;
   text-decoration: none;
 }
 
@@ -2771,7 +2771,7 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: rgb(1, 183, 1);
+  background-color: #15df0c;
   border-color: #fff;
 }
 
@@ -4374,7 +4374,7 @@ input[type="button"].btn-block {
   margin-top: 0;
   margin-right: 0.2rem;
   margin-left: 0.2rem;
-  background-color: #ff214f;
+  background-color: #15df0c;
   border: 0;
   border-radius: 1rem;
   -webkit-transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
@@ -4518,11 +4518,11 @@ input[type="button"].btn-block {
 .nav-pills .nav-link {
   border-radius: 0.2rem;
 }
-
+/*machucada, natural nombre encabezado*/
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #ff214f;
+  background-color: #15df0c;
 }
 
 .nav-fill .nav-item {
@@ -4986,11 +4986,11 @@ input[type="button"].btn-block {
 }
 
 .navbar-light .navbar-text a {
-  color: #ff214f;
+  color: #15df0c;
 }
 
 .navbar-light .navbar-text a:hover, .navbar-light .navbar-text a:focus {
-  color: #ff214f;
+  color: #1bcc12;
 }
 
 .navbar-dark .navbar-brand {
@@ -5012,12 +5012,12 @@ input[type="button"].btn-block {
 .navbar-dark .navbar-nav .nav-link.disabled {
   color: rgba(255, 255, 255, 0.25);
 }
-
+/* color nabvar mouse */
 .navbar-dark .navbar-nav .show > .nav-link,
 .navbar-dark .navbar-nav .active > .nav-link,
 .navbar-dark .navbar-nav .nav-link.show,
 .navbar-dark .navbar-nav .nav-link.active {
-  color: #ff214f;
+  color: #15df0c;
 }
 
 .navbar-dark .navbar-toggler {
@@ -5034,11 +5034,11 @@ input[type="button"].btn-block {
 }
 
 .navbar-dark .navbar-text a {
-  color: #ff214f;
+  color: #15df0c;
 }
 
 .navbar-dark .navbar-text a:hover, .navbar-dark .navbar-text a:focus {
-  color: #ff214f;
+  color: #15df0c;
 }
 
 .card {
@@ -11168,7 +11168,7 @@ pre {
           transform: translate(-50%, 50%);
   font-weight: bold;
   font-size: 2rem;
-  color: #ff214f;
+  color: #15df0c;
   opacity: 0;
   visibility: hidden;
   -webkit-transition: all 0.2s linear 0s;
@@ -11200,7 +11200,7 @@ pre {
 .header {
   height: 100vh;
   max-height: 900px;
-  background: url(../imgs/portada1.jpg) no-repeat center center fixed;
+  background: url(https://www.laopinion.co/sites/default/files/styles/portada_principal_747x420/public/2023-05/coca.jpg?itok=YeUJA4RW) no-repeat center center fixed;
   background-size: cover;
   min-height: 750px;
 }
