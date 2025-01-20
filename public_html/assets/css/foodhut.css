@@ -11200,7 +11200,7 @@ pre {
 .header {
   height: 100vh;
   max-height: 900px;
-  background: url(https://www.laopinion.co/sites/default/files/styles/portada_principal_747x420/public/2023-05/coca.jpg?itok=YeUJA4RW) no-repeat center center fixed;
+  background: url("/public_html/assets/imgs/portada1.jpg") no-repeat center center fixed;
   background-size: cover;
   min-height: 750px;
 }
