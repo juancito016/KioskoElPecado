@@ -11265,7 +11265,7 @@ pre {
 }
 
 .has-img-bg {
-  background: url(https://media.cnn.com/api/v1/images/stellar/prod/cnne-1693754-chile-2.jpg?c=original) no-repeat center center;
+  background: url('/public_html//assets/imgs/somos.jpg') no-repeat center center;
   background-size: cover;
 }
 
