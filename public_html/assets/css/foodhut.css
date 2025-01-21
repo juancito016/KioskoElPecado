@@ -11200,7 +11200,7 @@ pre {
 .header {
   height: 100vh;
   max-height: 900px;
-  background: url("/public_html/assets/imgs/portada1.jpg") no-repeat center center fixed;
+  background: url("https://th.bing.com/th/id/R.d2c6f25c75f217d05c7aeec46feb5d74?rik=9%2fsty9ZL9%2fThYg&pid=ImgRaw&r=0") no-repeat center center fixed;
   background-size: cover;
   min-height: 750px;
 }
