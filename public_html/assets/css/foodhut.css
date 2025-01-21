@@ -1888,12 +1888,12 @@ pre code {
 }
 
 .table-hover .table-primary:hover {
-  background-color: #ffa8ba;
+  background-color: #fcf8f9;
 }
 
 .table-hover .table-primary:hover > td,
 .table-hover .table-primary:hover > th {
-  background-color: #ffa8ba;
+  background-color: #fcf8f9;
 }
 
 .table-secondary,
@@ -1976,12 +1976,12 @@ pre code {
 }
 
 .table-hover .table-warning:hover {
-  background-color: #ffc6c3;
+  background-color: #fcf8f9;
 }
 
 .table-hover .table-warning:hover > td,
 .table-hover .table-warning:hover > th {
-  background-color: #ffc6c3;
+  background-color: #fcf8f9;
 }
 
 .table-danger,
@@ -1998,12 +1998,12 @@ pre code {
 }
 
 .table-hover .table-danger:hover {
-  background-color: #fcb9c2;
+  background-color: #fcf8f9;
 }
 
 .table-hover .table-danger:hover > td,
 .table-hover .table-danger:hover > th {
-  background-color: #fcb9c2;
+  background-color: #fcf8f9;
 }
 
 .table-light,
@@ -2947,8 +2947,8 @@ fieldset:disabled a.btn {
 
 .btn-danger:hover {
   color: #fff;
-  background-color: #f63750;
-  border-color: #f62b45;
+  background-color: #15df0c;
+  border-color: #faf4f5;
 }
 
 .btn-danger:focus, .btn-danger.focus {
@@ -5496,12 +5496,12 @@ a.badge:hover, a.badge:focus {
 
 .badge-primary {
   color: #fff;
-  background-color: #ff214f;
+  background-color: #15df0c;
 }
 
 a.badge-primary:hover, a.badge-primary:focus {
   color: #fff;
-  background-color: #ed0031;
+  background-color: #1ca515;
 }
 
 a.badge-primary:focus, a.badge-primary.focus {
